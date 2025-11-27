@@ -1,4 +1,5 @@
-﻿streamlit
+streamlit
 pandas
 matplotlib
-japanize-matplotlib
+streamlit-image-coordinates
+XlsxWriter
